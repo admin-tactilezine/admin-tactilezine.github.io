@@ -1,11 +1,11 @@
 title: Tactile Zine Creative Works # Shown in header on pages with full_logo: true
-short_logo: PF. # Shown in header on all pages by default unless full_logo: true is set
+short_logo: Tactile Zine Creative Works # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   You know what it is.
 url: "https://admin-tactilezine.github.io" # Site base URL
 
 author:
-  name: Anson
+  name: Tactile Zine
   github: # GitHub username, used for GitHub icon on the top right
   linkedin:  # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   email: example@example.com # Used for email icon on the top right
