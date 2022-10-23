@@ -1,10 +1,10 @@
 - name: Projects coming soon # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
-  description_less: This part of the project description is visible at all times. # Description shown at all times, text only
-  description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>This part is only seen when you click on the project card.</p> 
-  tags: # A list of tags
+  # img_src: # Optional image
+  # description_less: This part of the project description is visible at all times. # Description shown at all times, text only
+  # description_more: > # Description shown only when the project card is expanded, HTML only
+  #  <p>This part is only seen when you click on the project card.</p> 
+  # tags: # A list of tags
 
 #- name: Pudina Fresh Jekyll Theme
 #  id: pf
