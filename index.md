@@ -3,11 +3,11 @@ layout: page
 full_logo: true
 title: 
 subtitle: 
-description: This site is under constructions.
+description: This site is under construction.
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">AThis site is under constructions.</p>
+<p class="describe-text">This site is under construction.</p>
 <br>
 More to come soon.
 
