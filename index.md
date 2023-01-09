@@ -1,18 +1,26 @@
 ---
 layout: page
 full_logo: true
-title: Test1
-subtitle: Test2
-description: This site is under construction.
+title: Home
+subtitle: An atelier focused on making creative, tactile, nerdy projects.
+description: 
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">This site is under construction.</p>
+<!-- <p class="describe-text"> </p> --> 
 <br>
-More to come soon.
+
+<h1> About </h1>
+
+More to come soon. This site is under construction.
 
 <br>
+
+<h1>Contact Me</h1>
 <br>
+<a href="mailto:contact@tactilezine.xyz"> contact@tactilezine.xyz </a>
+<br>
+@tactilezine on Instagram
 <br>
 <br>
 <br>
