@@ -8,7 +8,7 @@ author:
   name: Tactile Zine
   github: # GitHub username, used for GitHub icon on the top right
   linkedin:  # Your LinkedIn profile url name, used for LinkedIn icon on the top right
-  email: example@example.com # Used for email icon on the top right
+  email: contact@tactilezine.xyz # Used for email icon on the top right
   homepage: # This links to your name in post meta
   twitter: # Twitter username, used for Twitter Card Analytics 
 
@@ -50,4 +50,4 @@ compress_html:
 
 rss: false # RSS feed icon on or off
 dark_mode: true # Dark mode icon
-project_card_style: modal # Choose from masonry, modal, and flat
+project_card_style: flat # Choose from masonry, modal, and flat

@@ -1,8 +1,8 @@
 ---
 layout: page
 full_logo: true
-title: 
-subtitle: 
+title: Test1
+subtitle: Test2
 description: This site is under construction.
 sitemap:
   priority: 1.0
