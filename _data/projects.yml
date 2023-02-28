@@ -1,4 +1,4 @@
-- name: Projects coming soon # Project name, also used as heading
+- name: Stuff I've worked on # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
   # img_src: # Optional image
   # description_less: This part of the project description is visible at all times. # Description shown at all times, text only
@@ -7,19 +7,19 @@
   # tags: # A list of tags
 
 - name: Tactile Zine 1.0
-  id: p1
-  img_src: 
+  id: p2
+  img_src: /assets/img/zine_bibliography.jpg
   description_less: zines focusing on geekhack.org Making Stuff Together subforum and makers
   description_more: >
     <p>From 2015-2016, I made a series of zines focusing on makers and creators, especially on the geekhack subforum Making Stuff Together.</p>
   action_buttons: >
-    <a href="https://geekhack.org/index.php?topic=70769.0" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp GH Post</a>
+    <a href="https://geekhack.org/index.php?topic=70769.0" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp GH Post</a>
 #    <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-#  tags: [jekyll, open-source]
+# tags: [projects]
 
 - name: Tactile Zine x boop! Collab
-  id: p2
-  img_src: 
+  id: p3
+  img_src: /assets/img/boop_collab.jpg
   description_less: I did a collab with booper. Made caps, photozine, 4x6", and print.
   description_more: >
     <p>Hung out with booper to learn more about her cap making process and documented the work we did to make caps. Created ferro colorway Ewok, Colonel, Monkey, blanks, and Cosmonaut caps along with a photozine, 4x6" photo, print, and stickers.</p>
@@ -27,7 +27,31 @@
     <a href="https://geekhack.org/index.php?topic=96410.0" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp GH Post</a>
 #    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
 #    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-#  tags: [tag3, docs]
+#  tags: [projects]
+
+- name: Various Photozines
+  id: p4
+  img_src: /assets/img/riso_zine.jpg
+  description_less: Risograph, regular single sheet, Polaroid
+  description_more: >
+    <p>Made random photozines for fun. Took a risograph class and made a zine there too</p>
+  action_buttons: >
+#    <a href="https://geekhack.org/index.php?topic=96410.0" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp GH Post</a>
+#    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+#    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+#  tags: [projects]
+
+- name: Prints
+  id: p5
+  img_src: /assets/img/print.jpg
+  description_less: Screenprint and lino cut prints
+  description_more: >
+    <p>Took a screenprinting class so I made a print. Taught myself how to make linocut prints for fun.</p>
+  action_buttons: >
+#    <a href="https://geekhack.org/index.php?topic=96410.0" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp GH Post</a>
+#    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+#    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+# tags: [projects]
 
 #- name: Project Three
 #  id: p3
