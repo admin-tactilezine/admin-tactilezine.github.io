@@ -18,11 +18,13 @@ You can expect to see things related to photography (especially film), mechanica
 
 <br>
 
-#<h1>Contact Me</h1>
+<!-- Commenting out the Contact Me Section
+<h1>Contact Me</h1>
 #<br>
 #<a href="mailto:contact@tactilezine.xyz"> #contact@tactilezine.xyz </a>
 #<br>
 #@tactilezine on Instagram
+-->
 <br>
 <br>
 <br>
