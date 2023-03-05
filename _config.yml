@@ -1,7 +1,7 @@
 title: Tactile Zine Creative Works # Shown in header on pages with full_logo: true
 short_logo: Tactile Zine Creative Works # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
-  You know what it is.
+  A creative atelier run by CBA.
 url: "https://admin-tactilezine.github.io" # Site base URL
 
 author:
