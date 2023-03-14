@@ -1,12 +1,15 @@
-- name: Stuff I've worked on # Project name, also used as heading
-  id: p1 # Project id, must be unique amongst the projects
-  # img_src: # Optional image
-  # description_less: This part of the project description is visible at all times. # Description shown at all times, text only
-  # description_more: > # Description shown only when the project card is expanded, HTML only
-  #  <p>This part is only seen when you click on the project card.</p> 
-  # tags: # A list of tags
+- name: Tactile Zine Volume 2.0
+  id: p1
+  img_src: /assets/img/projects/projects_zine_bibliography.jpg
+  description_less: zines focusing on makers and creatives in the mechanical keyboard community
+  description_more: >
+    <p>This is a follow up to the 1.0 project. Still making zines focusing on the DIY culture in the mechanical keyboard community.</p>
+  action_buttons: >
+    <a href="https://geekhack.org/index.php?topic=70769.0" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp GH Post</a>
+    <a href="https://www.instagram.com/tactilezine/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Instagram</a>
+  tags: [vol1, vol2]
 
-- name: Tactile Zine 1.0
+- name: Tactile Zine Volume 1.0
   id: p2
   img_src: /assets/img/projects/projects_zine_bibliography.jpg
   description_less: zines focusing on geekhack.org Making Stuff Together subforum and makers
@@ -15,7 +18,7 @@
   action_buttons: >
     <a href="https://geekhack.org/index.php?topic=70769.0" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp GH Post</a>
 #    <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-# tags: [projects]
+  tags: [vol1]
 
 - name: Tactile Zine x boop! Collab
   id: p3
@@ -27,7 +30,7 @@
     <a href="https://geekhack.org/index.php?topic=96410.0" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp GH Post</a>
 #    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
 #    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-#  tags: [projects]
+  tags: [vol1]
 
 - name: Various Photozines
   id: p4
