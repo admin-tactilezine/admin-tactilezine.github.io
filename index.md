@@ -25,16 +25,21 @@ This is a continuation of the original project: Tactile Zine (1.0). It was a zin
 
 <!-- Example hyperlink: <a href="https://www.w3schools.com/">Visit W3Schools.com!</a> -->
 <h1>Links</h1>
-
-<a href="https://geekhack.org/index.php?topic=70769.msg3147898#msg3147898"> geekhack thread </a>
-<a href="https://www.instagram.com/tactilezine/"> @tactilezine on Instagram </a>
-
+<u1>
+  <li> <a href="https://geekhack.org/index.php?topic=120239.0"> geekhack thread </a> </li>
+  <li> <a href="https://www.instagram.com/tactilezine/"> @tactilezine on Instagram </a> </li> 
+  <li> <a href="https://ko-fi.com/tactilezine"> Ko-Fi </a> </li>
+  <li> <a href="https://tactilezine.bigcartel.com/"> Storefront </a> </li>
+</u1> 
 
 <br>
 
 <h1>Contact Me</h1>
-<br>
-<a href="mailto:contact@tactilezine.xyz"> contact@tactilezine.xyz </a>
+<u1>
+  <li> <a href="mailto:contact@tactilezine.xyz"> contact@tactilezine.xyz </a> </li>
+  <li> <a href="https://www.instagram.com/tactilezine/"> @tactilezine on Instagram </a> </li>
+  <li> <a href="https://geekhack.org/index.php?action=profile;area=showposts;sa=topics;u=23841"> geekhack profile </a> </li>
+</u1>
 <br>
 
 <br>
