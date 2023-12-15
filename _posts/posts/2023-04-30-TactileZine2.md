@@ -6,6 +6,7 @@ updated:
 tags: blog vol2
 splash_img_source: /assets/img/blogs/TactileZine2/roller.jpg
 splash_img_caption: Logo Stamp and Paint Roller (Thank you hydrospell aka @siahlah for the logo design)
+permalink: /posts/:title/
 ---
 
 # Introduction: What is Tactile Zine 2.0?

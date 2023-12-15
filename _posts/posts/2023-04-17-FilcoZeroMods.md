@@ -6,6 +6,7 @@ updated:
 tags: blog
 splash_img_source: /assets/img/blogs/Filco0/all_stab_wires_ok.jpg
 splash_img_caption: They're not pretty but they do work and that's all I wanted.
+permalink: /posts/:title/
 ---
 
 # Filco Zero Modding
