@@ -18,3 +18,5 @@ Please note that I'm only interested in paying retail prices or trading for the 
 * [Literally Me Pato Puto](https://keycap-archivist.com/maker/azi-keycaps/pato-puto/1148df4f/)
 * [Level caps cherries lurker](https://keycap-archivist.com/maker/level-caps/lurker/56cda58e/)
 * [Glyco Cap Drip Caps - V1 or V2 are fine](https://keycap-archivist.com/maker/glyco-caps/)
+* [Soom Caps Watermelon](https://keycap-archivist.com/maker/soom-caps/soomblank/2b0cde92/)
+* [Meof Bunn Ramune Soda or any Bunn that matches of theme of purple, pink and teal](https://www.instagram.com/p/Cwbf8VIPOiv/?img_index=1)
