@@ -18,10 +18,8 @@ permalink: /links/
 </u1>
 <br>
 <h3>Special thanks to:</h3>
-<u1>
   <li> <a href="https://www.instagram.com/siahlah/"> Hydrospell (@siahlah) for my primary logo </a> </li>
   <li> <a href="https://www.instagram.com/lilkeyboardboi/"> loserisms for the graffiti logos
-</u1>
 <br>
 
 <br>
