@@ -12,12 +12,16 @@ permalink: /links/
 <!-- Example hyperlink: <a href="https://www.w3schools.com/">Visit W3Schools.com!</a> -->
 <u1>
   <li> <a href="https://geekhack.org/index.php?topic=120239.0"> geekhack thread where I post updates</a> </li>
-  <li> <a href="https://www.instagram.com/tactile_zine/"> @tactile_zine on Instagram - the social media platform for this project</a> </li> 
+  <li> <a href="https://www.instagram.com/tactilezine/"> @tactilezine on Instagram - the social media platform for this project</a> </li> 
   <li> <a href="mailto:contact@tactilezine.xyz"> Email me here or hit the email link at the top right</a> </li>
   <li> <a href="https://geekhack.org/index.php?action=profile;area=showposts;sa=topics;u=23841"> Message me on geekhack - here's my profile</a> </li>
 </u1>
 <br>
-
+<h3>Special thanks to:</h3>
+<u1>
+  <li> <a href="https://www.instagram.com/siahlah/"> Hydrospell (@siahlah) for my primary logo </a> </li>
+  <li> <a href="https://www.instagram.com/lilkeyboardboi/"> loserisms for the graffiti logos
+</u1>
 <br>
 
 <br>
