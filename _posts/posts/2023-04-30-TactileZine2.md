@@ -58,6 +58,8 @@ In an effort to keep this zine as affordable as possible, I will only ship zines
 USPS offers a choice of 2 stamps:
 
 1) For US domestic shipping - USPS first-class forever stamps ([link for more information including current pricing](https://www.usps.com/ship/first-class-mail.htm))
+
+
 2) For US to all non-US international shipping - USPS global forever stamp ([link for more information including current pricing](https://www.usps.com/international/first-class-mail-international.htm))
 
 Yes this means that you will be paying approximately $0.63 - $1.45 USD for shipping. This also means there is *no* tracking number. I will also be subject to [any current service restrictions](https://about.usps.com/newsroom/service-alerts/international/welcome.htm) that USPS has.

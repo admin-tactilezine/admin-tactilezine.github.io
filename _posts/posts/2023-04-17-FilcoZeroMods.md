@@ -26,9 +26,9 @@ I did cover some of my mods in a geekhack modding log but I wanted to expand on 
 
 4) ~~I want to address the ping on the upstroke.~~
 
-5) I want to replace the cable with something detachable.
+5) ~~I want to get the Pegasus Hoof working on VIA.~~
 
-6) I want to get the Pegasus Hoof working on VIA.
+6) I want to replace the cable with something detachable.
 
 So far, I've succeeded in goals 1 through 4. Those were covered in my [modding log that I posted on geekhack](https://geekhack.org/index.php?topic=119951.0). Essentially I had to rebend the stabilizer wires, modify some of the stabilizer inserts, and sand downt he spacebar.
 
@@ -58,3 +58,23 @@ Something I really didn't like about this keyboard is the horrible upstroke ping
 
 ## Upcoming Work
 I do want to update this blog to include my adventures in DIY cable making and if I can get the Zero to work with Via/Vial. More to come.
+
+&nbsp;
+
+## Update Dec 24 2023 - Got Via Working and a Detachable Cable
+Thanks to [speedycake in LightningKeyboard's Discord server](https://geekhack.org/index.php?topic=119951.msg3177357#msg3177357) I was able to get Via working on the Pegasus Hoof controller. The firmware was ported over to QMK earlier in 2023 but I didn't realize how to get it working. So essentially the steps I followed were:
+
+1) Set the controller to DFU mode with the magnetic reset
+   
+2) Download the Pegasus Hoof firmware from [this website](https://www.caniusevia.com/docs/download_firmware)
+
+3) Use the QMK toolbox tool to flash the firmware. I'd need to select the atmega32U2
+
+
+I confirmed that I have a 2013 Pegasus Hoof [from my old build log when I modded my Zero](https://geekhack.org/index.php?topic=71855.0). And confirmed my controller was running an old [EasyAVR firmware](https://geekhack.org/index.php?topic=51252.0). So I grabbed the 2013 Pegasus Hoof firmware.
+
+Next I booted up my Windows Virtual Machine and installed [QMK toolbox](https://github.com/qmk/qmk_toolbox). Then reset my controller with a magnet and passed the USB input into the VM. I set the MCU type to atmega32U2 and then flashed the hex file from Caniusevia.com. Once it's done, I just booted up Via and it worked! 
+
+I'm very happy to have my decade old controller and keyboard in the modern age!
+
+Lastly, thanks to some new interest in Filcos, some friends are putting together a little buy from [KeebStuff](https://keebstuff.com/) so that we can get a Filco cable that attaches into the Filco board connector and terminates into a female LEMO end. That way I can have one LEMO cable for all of my boards...wait, I need to figure out what to do with my Kishsaver now. That's another project for another day.
