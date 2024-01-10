@@ -14,6 +14,7 @@ Please note that I'm only interested in paying retail prices
 
 * Any Alps or Buckling spring artisans
 * [DCS Windbreaker](https://pwade3.com/products/dcs-windbreaker-extras?variant=42339746578616)
+* [GMK Symbiote - Central Core and Metamorphosis](https://matrixzj.github.io/docs/gmk-keycaps/Symbiote/)
 * [Lunar II keyboard](https://ai03.com/projects/lunar-ii/)
 * [Literally Me Pato Puto](https://keycap-archivist.com/maker/azi-keycaps/pato-puto/1148df4f/)
 * [Level Caps Cherries Lurker](https://keycap-archivist.com/maker/level-caps/lurker/56cda58e/)
