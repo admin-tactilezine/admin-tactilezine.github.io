@@ -14,10 +14,7 @@ Please note that I'm only interested in paying retail prices
 
 * Any Alps or Buckling spring artisans
 * [Lunar II keyboard](https://ai03.com/projects/lunar-ii/)
-* [Literally Me Pato Puto](https://keycap-archivist.com/maker/azi-keycaps/pato-puto/1148df4f/)
-* [Level Caps Cherries Lurker](https://keycap-archivist.com/maker/level-caps/lurker/56cda58e/)
+* [Level Caps Cherries Lurker](https://keycap-archivist.com/maker/level-caps/lurker/56cda58e/) or any transluscent Lurkers
 * [Soom Caps Watermelon](https://keycap-archivist.com/maker/soom-caps/soomblank/2b0cde92/)
 * [Meof Bunn Ramune Soda or any Bunn that matches of theme of purple, pink and teal](https://www.instagram.com/p/Cwbf8VIPOiv/?img_index=1)
-* [CYSM Bite](https://www.cysm.store/collections/bite-collections)
-  * Pink Love, Love, any of the Pastel single shots, Bloody Mary
 * [GMK Classic Retro - Geekhack Caps Kit](https://matrixzj.github.io/docs/gmk-keycaps/Classic-Retro-GeekHack-Pack/#geekhack)
