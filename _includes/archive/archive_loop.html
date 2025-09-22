@@ -1,0 +1,15 @@
+{% for archive in archives %}   
+    {% unless archive.listed == false %}
+        {% if archive.pin %}
+            {% include archive/archive_card.html %}
+        {% endif %}
+    {% endunless %}   
+{% endfor %}
+
+{% for archive in archives %}   
+    {% unless archive.listed == false %}
+        {% if archive.pin != true %}
+            {% include archive/archive_card.html %}
+        {% endif %}
+    {% endunless %}   
+{% endfor %}

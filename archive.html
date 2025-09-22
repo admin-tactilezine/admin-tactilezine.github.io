@@ -1,0 +1,31 @@
+---
+layout: page
+title: Archive
+subtitle: Documentation of previous work
+description:
+permalink: /archive/
+sitemap:
+  priority: 0.9
+---
+<!-- {% assign archive = site.data.archive %}
+
+{% include archive/archive_loop.html %} -->
+
+<ul class="archive-list">
+  {% assign items = site.archive | sort: 'date' | reverse %}
+  {% for post in items %}
+    <li class="archive-item">
+      {% if post.image %}
+        <a href="{{ post.url | relative_url }}" class="thumb-link">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="thumb-img">
+        </a>
+      {% endif %}
+
+      <div class="item-content">
+        <h2 class="item-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

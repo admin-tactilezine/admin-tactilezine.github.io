@@ -51,3 +51,19 @@ compress_html:
 rss: false # RSS feed icon on or off
 dark_mode: true # Dark mode icon
 project_card_style: flat  # Choose from masonry, modal, and flat
+
+collections:
+  archive:
+    output: true          # generate a page for each item
+    permalink: /archive/:year/:month/:day/:title/
+    sort_by: date         # default sorting order
+    # Optional: enable pagination for the collection index
+    # (requires the jekyll-paginate-v2 plugin)
+
+defaults:
+  -
+    scope:
+      path: ""               # applies to the whole site
+      type: archive          # only items in the archive collection
+    values:
+      layout: post           # use the same layout as normal blog posts

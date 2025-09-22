@@ -1,0 +1,19 @@
+<div class="card mb-4">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm-8">
+                {% assign tags = archive.tags %}
+                {% include tag_loop.html %}
+                <h4><b><a class="stretched-link" href="{{ site.url }}{{ archive.url }}">{{ archive.title }}</a></b></h4>
+                <p class="archive-title__subtitle">Published {{ archive.date | date: "%b %e, 20%y" }} {% if archive.updated %} (Updated {{ archive.updated | date: "%b %e, 20%y" }}) {% endif %} by {% if archive.author.name %}{{ archive.author.name }}{% else %}{{ site.author.name }}{% endif %}{% if archive.pin %} • Pinned ⭐{% endif %}<p>      
+                <p>{{ archive.content | strip_html | truncatewords: 25 }}</p>
+            </div>
+
+            <div class="col-sm-4">
+                {% if archive.splash_img_source %}
+                <img class="archive-card-image" src="{{ site.url }}{{ archive.splash_img_source }}" loading="lazy" alt="{{ page.splash_img_caption | strip_html }}">          
+                {% endif %}   
+            </div>
+        </div>
+    </div>
+</div>
